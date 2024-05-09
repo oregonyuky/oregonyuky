@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning optimization coding **Codewars, beecrowd, hackerank**
 
-- 👯 I’m looking to collaborate with jose **Jose Vitor Vernize Martos**
+- 👯 I’m looking to collaborate with **Jose Vitor Vernize Martos**
 
 - 🤝 I’m looking for help with jose and other junior **Jose Vitor Vernize Martos**
 
