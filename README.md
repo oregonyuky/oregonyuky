@@ -52,7 +52,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oregonyuky&theme=tokyo-night"/>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{oregonyuky}/count.svg" />
+ <div><img align="center-right" alt="pic" height="150" style="border-radius:100px;" src="https://github.com/oregonyuky/oregonyuky/blob/main/.github/workflows/12.gif?width=676&height=676&border-radius=100px"></p>
+<br>
+</div>
+
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{oregonyuky}/count.svg" />
+
 
