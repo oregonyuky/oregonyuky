@@ -55,7 +55,7 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{oregonyuky}/count.svg" />
- <div><img align="center-right" alt="pic" height="150" style="border-radius:100px;" src="https://github.com/oregonyuky/oregonyuky/blob/main/.github/workflows/12.gif?width=676&height=676&border-radius=100px"></p>
+ <div><img align="center-right" alt="pic" height="150" style="border-radius:100px;" src="https://github.com/oregonyuky/oregonyuky/12.gif?width=676&height=676&border-radius=100px"></p>
 <br>
 </div>
 
