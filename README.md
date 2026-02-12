@@ -3,23 +3,12 @@
 <h1 align="center">Hi 👋, I'm Felipe Akio Nishimura</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oregonyuky&label=Profile%20views&color=0e75b6&style=flat" alt="oregonyuky" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oregonyuky&theme=dracula" alt="oregonyuky" /></a> </p>
-
-- 🔭 I’m currently passionate with competitive programming [beecrowd, leetcode, codewarsa](https://codeforces.com/)
-- 👯 I’m looking to collaborate with Jose Vitor Vernize Martos [Jose Vitor Vernize Martos](https://github.com/TheJoseph-Dev)
-- 🤝 I’m looking for help with everyone that are disposal [beecrowd](https://judge.beecrowd.com/en/login?redirect=%2Fen%2F)
-
-- 📫 How to reach me **felipe.akio.nishimura@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/oregonyuky**
-- ⚡ Fun fact **I can talk best piadas of the world**
-
-<div> <a href="https://twitter.com/@leandro92659773" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/oregonyuky" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/Felipe Akio Nishimura" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:felipe.akio.nishimura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@leandro92659773" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@leandro92659773" height="30" width="40" /></a><a href="https://fb.com/Felipe A Nishimura" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Felipe A Nishimura" height="30" width="40" /></a><a href="https://www.hackerrank.com/@felipe_akio_nis1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="@felipe_akio_nis1" height="30" width="40" /></a><a href="https://www.leetcode.com/oregonyuky" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="oregonyuky" height="30" width="40" /></a><a href="https://discord.gg/felipeakio" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="felipeakio" height="30" width="40" /></a><a href="https://instagram.com/Felipe Akio Nishimura" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Felipe Akio Nishimura" height="30" width="40" /></a><a href="https://codeforces.com/profile/borabora" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="borabora" height="30" width="40" /></a></p>
+<a href="https://www.hackerrank.com/@felipe_akio_nis1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="@felipe_akio_nis1" height="30" width="40" /></a><a href="https://www.leetcode.com/oregonyuky" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="oregonyuky" height="30" width="40" /></a><a href="https://discord.gg/felipeakio" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="felipeakio" height="30" width="40" /></a><a href="https://instagram.com/Felipe Akio Nishimura" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Felipe Akio Nishimura" height="30" width="40" /></a><a href="https://codeforces.com/profile/borabora" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="borabora" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -34,9 +23,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oregonyuky&layout=compact&theme=dark" alt=oregonyuky />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=oregonyuky&show_icons=true&locale=en&theme=dark" alt="oregonyuky" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oregonyuky&theme=dark" alt="oregonyuky" /></p>
 
@@ -50,7 +36,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oregonyuky&theme=2077" height="180em" />
 </div>
  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{oregonyuky}/count.svg" />
  <div><img align="center-right" alt="pic" height="150" style="border-radius:100px;" src="https://github.com/oregonyuky/oregonyuky/12.gif?width=676&height=676&border-radius=100px"></p>
 <br>
